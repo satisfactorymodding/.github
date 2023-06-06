@@ -1,6 +1,6 @@
 # Satisfactory Modding
 
-![image](https://cdn.discordapp.com/splashes/555424930502541343/26fcde8d361446a228dd08fdddf31ce9.jpg?size=4096)
+![image](./assets/banner.png)
 
 Unofficial modding organization for [Satisfactory](https://www.satisfactorygame.com/), the factory building and exploration game created by [Coffee Stain Studios](https://www.coffeestainstudios.com/).
 
