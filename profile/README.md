@@ -16,7 +16,7 @@ All members are volunteers. We are not affiliated with Coffee Stain Studios, but
 ## Get Started Making Mods
 
 - Check out the [modding documentation](https://docs.ficsit.app/)
-- Join our [Discord](https://discord.com/invite/xkVJ73E) and obtain the modding role from the [#rules channel](https://discord.com/channels/555424930502541343/555442202780762143)
+- Join our [Discord](https://discord.com/invite/xkVJ73E) to get help
 
 ## Get Involved
 
