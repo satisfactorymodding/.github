@@ -10,17 +10,17 @@ All members are volunteers. We are not affiliated with Coffee Stain Studios, but
 
 - Download the [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager/releases), which handles downloading and installing mods for you
 - Check out some mods on the [Satisfactory Mod Repository](https://ficsit.app/), also known as the FICSIT Augmentation Database
-- Join our community on [Discord](https://discord.com/invite/xkVJ73E) to discuss mods and get help
+- Join our community on [Discord](https://discord.ficsit.app) to discuss mods and get help
 - Check out the community's [frequently asked questions](https://docs.ficsit.app/satisfactory-modding/latest/faq.html)
 
 ## Get Started Making Mods
 
 - Check out the [modding documentation](https://docs.ficsit.app/)
-- Join our [Discord](https://discord.com/invite/xkVJ73E) to get help
+- Join our [Discord](https://discord.ficsit.app) to get help
 
 ## Get Involved
 
 - Check out the status of our various [projects](https://github.com/orgs/satisfactorymodding/projects)
-- Join our [Discord](https://discord.com/invite/xkVJ73E) to discuss and contribute to development progress
+- Join our [Discord](https://discord.ficsit.app) to discuss and contribute to development progress
 - Open a PR to any of our repositories
 - [Contribute to the docs](https://github.com/satisfactorymodding/Documentation/blob/master/README.md)
